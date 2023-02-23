@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Masaüstü\proje\vücut kitle indeksi hesaplama\vücut kitle indeksi hesaplama\bin\Debug\net6.0\vücut kitle indeksi hesaplama.exe
+C:\Users\User\OneDrive\Masaüstü\proje\vücut kitle indeksi hesaplama\vücut kitle indeksi hesaplama\bin\Debug\net6.0\vücut kitle indeksi hesaplama.deps.json
+C:\Users\User\OneDrive\Masaüstü\proje\vücut kitle indeksi hesaplama\vücut kitle indeksi hesaplama\bin\Debug\net6.0\vücut kitle indeksi hesaplama.runtimeconfig.json
+C:\Users\User\OneDrive\Masaüstü\proje\vücut kitle indeksi hesaplama\vücut kitle indeksi hesaplama\bin\Debug\net6.0\vücut kitle indeksi hesaplama.dll
+C:\Users\User\OneDrive\Masaüstü\proje\vücut kitle indeksi hesaplama\vücut kitle indeksi hesaplama\bin\Debug\net6.0\vücut kitle indeksi hesaplama.pdb
+C:\Users\User\OneDrive\Masaüstü\proje\vücut kitle indeksi hesaplama\vücut kitle indeksi hesaplama\obj\Debug\net6.0\vücut kitle indeksi hesaplama.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\proje\vücut kitle indeksi hesaplama\vücut kitle indeksi hesaplama\obj\Debug\net6.0\vücut kitle indeksi hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Masaüstü\proje\vücut kitle indeksi hesaplama\vücut kitle indeksi hesaplama\obj\Debug\net6.0\vücut kitle indeksi hesaplama.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Masaüstü\proje\vücut kitle indeksi hesaplama\vücut kitle indeksi hesaplama\obj\Debug\net6.0\vücut kitle indeksi hesaplama.AssemblyInfo.cs
+C:\Users\User\OneDrive\Masaüstü\proje\vücut kitle indeksi hesaplama\vücut kitle indeksi hesaplama\obj\Debug\net6.0\vücut kitle indeksi hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\proje\vücut kitle indeksi hesaplama\vücut kitle indeksi hesaplama\obj\Debug\net6.0\vücut kitle indeksi hesaplama.dll
+C:\Users\User\OneDrive\Masaüstü\proje\vücut kitle indeksi hesaplama\vücut kitle indeksi hesaplama\obj\Debug\net6.0\refint\vücut kitle indeksi hesaplama.dll
+C:\Users\User\OneDrive\Masaüstü\proje\vücut kitle indeksi hesaplama\vücut kitle indeksi hesaplama\obj\Debug\net6.0\vücut kitle indeksi hesaplama.pdb
+C:\Users\User\OneDrive\Masaüstü\proje\vücut kitle indeksi hesaplama\vücut kitle indeksi hesaplama\obj\Debug\net6.0\vücut kitle indeksi hesaplama.genruntimeconfig.cache
+C:\Users\User\OneDrive\Masaüstü\proje\vücut kitle indeksi hesaplama\vücut kitle indeksi hesaplama\obj\Debug\net6.0\ref\vücut kitle indeksi hesaplama.dll
